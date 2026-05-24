@@ -1,0 +1,22 @@
+{
+  "name": "json-to-ui-state",
+  "version": "0.1.0",
+  "description": "Generate UI fixture states from JSON responses.",
+  "type": "module",
+  "bin": {
+    "json-to-ui-state": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node src/cli.js --help"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "open-source"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
