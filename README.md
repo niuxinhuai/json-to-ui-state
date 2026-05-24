@@ -1,5 +1,7 @@
 # json-to-ui-state
 
+[![CI](https://github.com/niuxinhuai/json-to-ui-state/actions/workflows/ci.yml/badge.svg)](https://github.com/niuxinhuai/json-to-ui-state/actions/workflows/ci.yml)
+
 Generate normal, empty, long-text, missing-field, edge-number, and error fixtures from one JSON response.
 
 从一份 JSON 响应生成 normal、empty、long text、missing field、edge number、error 等 UI 验收状态。
